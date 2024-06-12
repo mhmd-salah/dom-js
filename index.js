@@ -8,5 +8,11 @@
   Attr
   NamedNodeMap
 */
+// get attributes element  => element.attributes["att name"].value
 
 console.log(document.childNodes[1])
+console.log(document.COMMENT_NODE)
+console.log(document.childNodes)
+console.log(document.Attr)
+let parent = document.querySelector(".parent")
+console.log(parent.attributes["data-par"].value)
