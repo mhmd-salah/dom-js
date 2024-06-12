@@ -18,4 +18,3 @@ let parent = document.querySelector(".parent")
 console.log(parent.attributes["data-par"].value)
 let hello = "mohamed salah";
 
-// out stash
