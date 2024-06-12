@@ -16,3 +16,4 @@ console.log(document.childNodes)
 console.log(document.Attr)
 let parent = document.querySelector(".parent")
 console.log(parent.attributes["data-par"].value)
+let hello = "mohamed salah";
